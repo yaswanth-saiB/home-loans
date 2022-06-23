@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background-color: lightcoral;
+    
+}
+
+h1 {
+    text-shadow: circle;
+    color: red;
+    text-align: center;
+}
+
+p {
+    color: darkred;
+}
+
+button {
+    color:whitesmoke;
+  }
+  
+  button:hover {
+    background-color:green;
+  }
+  
+  h3 {
+    color: maroon;
+  }

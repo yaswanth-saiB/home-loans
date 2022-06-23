@@ -1,0 +1,42 @@
+h2 {
+    color:dimgray;
+    text-align: center;
+    font-family: cursive;
+  }
+  
+  body {
+    background-color:aquamarine;
+  }
+  
+  table {
+    width:600;
+    text-align: center;
+  }
+  
+  strong {
+    padding-left: 50px;
+  }
+  
+  li {
+    color:red;
+    text-align: center;
+    padding-left: 30px;
+  }
+  
+  span {
+    font-weight: bold;
+    color:red;
+    padding-left: 20px;
+  }
+  
+  button {
+    color:whitesmoke;
+  }
+  
+  button:hover {
+    background-color:crimson;
+  }
+  
+  h3 {
+    color: maroon;
+  }

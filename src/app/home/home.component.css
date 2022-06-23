@@ -1,0 +1,49 @@
+.center{
+	align-items: center;
+	padding-left: 200px;
+	width:100%;
+	max-width: 400px;
+}
+
+h3 {
+	color: darkorange;
+	margin: auto;
+}
+
+.center img {
+	padding-left: 70px;
+	width:400%;
+	height:200%;
+}
+
+button{
+	text-align: center;
+	height: 50px;
+	width: 150px;
+	color:whitesmoke;
+	cursor: pointer;
+	background-color: rebeccapurple;
+	border: 1px solid ;
+	border-radius: 25px;
+	transition: .4s;
+}
+
+ button:hover{
+	background: #cc0000;
+}
+
+h1 {
+	color:darkorange;
+	text-align: center;
+}
+
+.container {
+	padding-left: 150px;
+}
+
+.container a {
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	padding-left: 30px;
+	padding-bottom: 50px;
+}
